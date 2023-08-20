@@ -17,7 +17,11 @@ const ProductLists = ({
 }: ProductListProps) => {
   if (status === "error") return "Eiya!, You just encountered an error";
   if (status === "loading")
-    return <p className='text-center mt-8'>Loading...</p>;
+    return (
+      <p className='text-center mt-8' git>
+        Loading...
+      </p>
+    );
   return (
     <>
       <section className='container px-4 mx-auto pt-4'>
