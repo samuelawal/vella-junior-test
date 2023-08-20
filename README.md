@@ -49,7 +49,7 @@ The "Add to Cart" functionality allows users to manage their selected products, 
 
 ## Improvements
 
-Given more time, here are some improvements that could be considered:
+Given more time, here are some improvements that will be considered:
 
 - User Authentication: Implement user authentication and user-specific carts to provide a personalized shopping experience.
 - Refined UI/UX: Enhance the user interface with better visuals and animations to make the shopping experience more engaging.
@@ -71,3 +71,25 @@ Before you start, make sure you have the following installed on your system:
   ```bash
   npm install -g @ionic/cl
   ```
+
+  ### Prerequisites
+
+Running the Application
+
+1. Clone the Repository: Start by cloning this repository to your local machine using Git:ode Package Manager) which is required for managing dependencies.
+
+```bash
+git clone https://github.com/samuelawal/vella-junior-test
+```
+
+2. Navigate to the Project Directory: Move into the cloned project directory and install dependencies.
+
+```bash
+cd vella-junior-test && npm install
+```
+
+3. Run the Development Server: Launch the Ionic development server to see the app in action:
+
+```bash
+ionic serve
+```
