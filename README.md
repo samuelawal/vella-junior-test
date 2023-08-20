@@ -72,7 +72,7 @@ Before you start, make sure you have the following installed on your system:
   npm install -g @ionic/cl
   ```
 
-  ### Running the Application
+### Running the Application
 
 1. Clone the Repository: Start by cloning this repository to your local machine using Git:ode Package Manager) which is required for managing dependencies.
 
